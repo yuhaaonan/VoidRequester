@@ -3,7 +3,7 @@
 	"package": "work.yhnsoft.yhn.voidrequester.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+      "Mixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
